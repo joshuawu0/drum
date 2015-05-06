@@ -16,9 +16,10 @@ body{
 h1{
 	position: absolute;
 	font-family: font-family: 'Pacifico', cursive;;
-	font-size: 390px;
-	color: rgb(187, 46, 46);
-	right: 75%;
+	font-size: 200px;
+	color: rgb(0, 0,0);
+	top: 5%;
+	right: 62%;
 	margin:0;
 	line-height: 0.5em;
 	cursor: default;
