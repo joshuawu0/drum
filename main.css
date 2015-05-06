@@ -1,0 +1,27 @@
+html{
+	height: 100%;
+}
+
+body{
+	background: url(image/frontpage.jpg) no-repeat center fixed;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: 0px;
+	padding: 0px;
+	z-index: -1;
+	height:100%;
+}
+
+h1{
+	position: absolute;
+	font-family: font-family: 'Pacifico', cursive;;
+	font-size: 390px;
+	color: rgb(187, 46, 46);
+	right: 75%;
+	margin:0;
+	line-height: 0.5em;
+	cursor: default;
+	z-index: inherit;
+
+}
