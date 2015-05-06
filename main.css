@@ -16,7 +16,7 @@ body{
 h1{
 	position: absolute;
 	font-family: 'Lobster', cursive;
-	font-size: 200px;
+	font-size: 600px;
 	color: rgb(0, 0,0);
 	top: 5%;
 	right: 62%;
@@ -37,7 +37,7 @@ ul{
 
 li{
 	display: inline;
-	font-size:30px;
+	font-size:20px;
 	margin-right:40px;
 	border-top:2px solid gray;
 	cursor: pointer;
@@ -49,7 +49,5 @@ li{
 
 li:hover{
 	
-	border-top:2px solid white;
+	border-top:2px solid black;
 }
-
-
